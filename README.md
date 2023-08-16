@@ -1,12 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+Waldy_Writings+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Waldy_Writings+♥️+!!!!)</p>
 <p align="center">
-  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
+  <img src="https://telegra.ph/file/61fea9dc202b725fbf90f.jpg" alt="Waldy Filter Logo">
   </p>
   <h1 align="center">
     <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
     </h1>
 
-# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ TᴀᴍɪʟᴀɴBᴏᴛsZ
+# 👩‍💻 ᴄᴏᴅᴇᴅ ʙʏ ᴡᴀʟᴅʏ_ᴡʀɪᴛɪɴɢꜱ
 
 🌟 <b>Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ</b> 💥
 
@@ -71,20 +71,6 @@ Cᴀɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ﹖ Sᴇᴇ SᴄʀᴇᴇɴSʜᴏᴛ 👇
   <img src="https://graph.org/file/21483ea00b3d273b8b9cb.jpg" alt="Proud To Say">
   </p>
 
-## Dᴇᴘᴏʟʏ
-Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
-
-<a href=https://github.com/TamilanBotsZ/PremiumFilter/blob/Tamilans-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
-
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/TamilanBotsZ/PremiumFilter">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-  </a>
-  </p>
-  </details>
-
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴇɴᴅᴇʀ {ғʀᴇᴇ}</summary>
 <p>
 <br>
@@ -95,32 +81,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
   </p>
   <p>
 </details>
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ᴩᴀɪᴅ}</summary>
-<p>
-<br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TamilanBotsZ/PremiumFilter&branch=Tamilans-Working-Branch">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
-  </a
-  </p>
-  <p>
-</details>  
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Oᴋᴛᴇᴛᴏ {ᴘᴀɪᴅ}</summary>
-<p>
-<br>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TamilanBotsZ/PremiumFilter">
-  <img src="https://okteto.com/develop-okteto.svg" alt="deploy-to-okteto">
-  </a>
-  </p>
-  </details>
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
-<p>
-<br>
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilanBotsZ%2FPremiumFilter">
-  <img src="https://railway.app/button.svg" alt="deploy-to-railway">
-  </a>
-  </p>
-  </details>
-<details><summary>Rᴜɴ Lᴏᴄᴀʟʟʏ/Vᴘs {ᴘᴀɪᴅ}</summary>
+
 <p>
 You must have the latest version of <a href="golang.org">go</a> installed first
 <pre>
@@ -150,9 +111,6 @@ chats - 🕳️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs ɪɴғᴏ
 broadcast - 🔮 ʙʀᴏᴀᴅᴄᴀsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ )
 link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
-
-## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
 
 ## Tʜᴀɴᴋs Tᴏ 
  <b>- Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
